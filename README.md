@@ -10,6 +10,8 @@ The slides for my presentation on BIG DATA EN LAS ESTADÍSTICAS OFICIALES - ECON
 
 Alternative to the **PPTX** version slides, I created another using `Slides.com`, which is available at: [https://slides.com/yuchanghoandy/deck](https://slides.com/yuchanghoandy/deck)
 
+SlideShare: [https://www.slideshare.net/yuzhanghe/what-is-webscraping](https://www.slideshare.net/yuzhanghe/what-is-webscraping)
+
 ## Outline of this talk:
 * What is Web-scraping?
 * How to Perform Web-scraping?
