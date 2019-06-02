@@ -8,7 +8,7 @@ The slides for my presentation on BIG DATA EN LAS ESTADÍSTICAS OFICIALES - ECON
 * Conference Date: **May 07, 2019 ~ May 09, 2019**
 * Event Page: [https://www.eventbrite.com/e/big-data-en-las-estadisticas-oficiales-economia-digital-y-el-desarrollo-registration-61032568054](https://www.eventbrite.com/e/big-data-en-las-estadisticas-oficiales-economia-digital-y-el-desarrollo-registration-61032568054)
 
-Alternative to the **PPTX** version slides, I created another using `Slides.com`, which is available at: [https://slides.com/yuchanghoandy/deck](https://slides.com/yuchanghoandy/deck)
+Alternative to the **PPTX** version slides, I created another using `Slides.com`, which is available at: [https://slides.com/yuchanghoandy/whatiswebscraping](https://slides.com/yuchanghoandy/whatiswebscraping)
 
 SlideShare: [https://www.slideshare.net/yuzhanghe/what-is-webscraping](https://www.slideshare.net/yuzhanghe/what-is-webscraping)
 
